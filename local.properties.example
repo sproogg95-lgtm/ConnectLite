@@ -1,0 +1,9 @@
+# Copy this file to "local.properties" (same folder). local.properties is
+# git-ignored, so this is the safe place for machine-specific / secret values.
+
+sdk.dir=/path/to/your/Android/sdk
+
+# ── API KEY #1: Agora App ID ────────────────────────────────────────────────
+# Get it from https://console.agora.io -> "Project Management" -> "Create"
+# Copy the "App ID" shown for your project (NOT the App Certificate).
+AGORA_APP_ID=PUT_YOUR_AGORA_APP_ID_HERE
